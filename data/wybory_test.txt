@@ -1,0 +1,248 @@
+__label__neutral Druga sonda Przy za³o¿eniu ¿e opozycja nie poprze zmiany konstytucji Wybory Maj korespond Maj tradycyjne Sierpieñ korespond Inne jakie Kiedy g³osów Pozosta³o dni 
+__label__positive To ¿e dla Was bojkot jest jedyn¹ szans¹ ¿eby zachowaæ twarz to wiemy Natomiast tutaj trzeba wzi¹æ w tym sonda¿u udzia³ po to ¿eby spróbowaæ wygraæ i doprowadziæ do uczciwych wyborów WyboryKorespondencyjne WyboryPrezydenckie2020 
+__label__negative Za chwilê siê oka¿e ¿e ¿eby oddaæ g³os w wyborach korespondencyjnych nale¿y pakiet wyborczy nadaæ listem poleconym osobiœcie na poczcie WyboryKorespondencyjne 
+__label__neutral Kochani mój synek 32 lata w³aœnie otrzyma³ powo³anie do ma zostaæ si³a wcielony do obs³ugi WYBORY2020 trochê siê boimy o Piotrusia bo koronawirus 
+__label__positive a pan wie ¿e dziœ w wielu gminach Polski odby³y siê wybory uzupe³niaj¹ce i referenda przy urnach Nie s³ysza³em o protestach w tych miejscach nawet tam gdzie rz¹dzi KO WyboryPrezydenckie2020 
+__label__negative Instrukcja dla komisji wyb Rozpakuj kopertê z pakietem i zweryfikuj dane wyborcy Zaklejon¹ kopertê z g³osem wyborcy wyrzuæ do niszczarki Do urny wrzuæ wczeœniej przygodow¹ kopertê z zaznaczonym A Dud¹ Tak bêdzie WyboryKopertowe WyboryKorespondencyjne 
+__label__negative Halo Stalowa Wola Nasze dane osobowe czyli nasza sfera prywatna jest bezwarunkowo chroniona prawem Jest epidemia koronawirus Ma³o nam zaka¿onych szpitali plebanii i publicznych urzêdów Czego burmistrz nie rozumie WYBORY2020 WyboryPrezydenckie2020 
+__label__negative To co jest szykowane przez Kaczyñskiego i Sasina na maja to nie bêd¹ wybory tylko pseudowybory Dlaczego Wyjaœnienia m in na stronie 
+__label__neutral Przez olewanie przez zwolenników opozycji bêdziemy mieli wybory w maju bo bojówki PiS s¹ mocno zdeterminowani ¿eby WYBORY2020 by³y w maju 
+__label__neutral Zachêcam do wziêcia udzia³u w sondzie dotycz¹cej Wybory któr¹ org 
+__label__neutral WYBORY2020 Na karcie do g³osowania z pieczêci¹ Obwod Kom Wyborczej podpisujemy oœwiadczenie o osobistym i tajnym oddaniu g³osu 
+__label__positive Wprowadzenie jednego ze stanów wyj¹tkowych jest potrzebne opozycji ¿eby zlikwidowaæ wszystkie dodatki socjalne i daæ wysokie odszkodowania swoim kolesiom z firm i lobbystom WyboryKorespondencyjne KoniecOpozycji Z³odziejePO 
+__label__positive No proszê g³osowanie w wyborach uzupe³niaj¹cych w Aleksandrowie i Obrzycku przebiega spokojnie Mo¿na Mo¿na A Sasin z kole¿kami jakieœ wyborykopertowe sobie wymyœlili i wa³ki na druku robi¹ Bez sensu 
+__label__positive Oczywiœcie nie bêd¹ to wybory tylko sonda¿ na du¿ej acz niereprezentatywnej grupie Tym niemniej warto w nim zawalczyæ po to ¿eby doprowadziæ do demokratycznych wyborów WyboryKorespondencyjne WyboryPrezydenckie 
+__label__positive Mo¿na Jestem za normalnymi wyborami WYBORY2020 Duda2020 
+__label__positive Czy g³osowanie korespondencyjne jest niebezpieczne Codziennie miliony Polaków odbiera paczki i listy i sie nie boi Wirus jest tylko na kartach do g³osowania A na innych przesylkach nie WyboryKorespondencyjne coronavirus WYBORY2020 
+__label__neutral Wiceprezes Poczty Polskiej G Kurdziel Jesteœmy dobrze przygotowani wyborykopertowe Pan Grzegorz Kurdziel by³ np goœciem TV Trwam w programie Poczta Polska w kszta³towaniu kultury narodowej media T Rydzyka sponsorowane przez PiS Bywa³ te¿ w TV Republika 
+__label__neutral Druga sonda Proszê o podawanie dalej Przy za³o¿eniu ¿e opozycja nie poprze zmiany konstytucji Wybory 
+__label__negative Je¿eli Sasin chce dostarczaæ pakiety wyborcze przesy³kami nie wymagaj¹cymi potwierdzenia odbioru to potencjalnie ka¿dy adresat mo¿e twierdziæ ¿e jej nie otrzyma³ Kilkaset takich spraw i pod znakiem zapytania staje wa¿noœæ wyborów WyboryPrezydenckie2020 
+__label__positive Wed³ug KidawaPrompter bezpiecznie jest jechaæ na szparagi do Niemiec a nie mo¿na wys³aæ g³osu w WyboryPrezydenckie2020 bo Zabójcze Koperty 
+__label__negative W takim razie miliony Polaków po roku ¿ycia zosta³o pozbawionych biernego prawa wyborczego Termin na zg³oszenie komitetu a nastêpnie kandydata by³ bowiem uzale¿niony od pierwotnej daty g³osowania pseudowybory 
+__label__positive najwa¿niejsze bêdzie dla mnie ile osób pójdzie do wyborów i ile g³osów dostan¹ poszczególni kandydaci Wygrana w pierwszej turze Andrzeja Dudy bêdzie silnym mandatem pokrzykiwania opozycji nie zmieni¹ tego faktu WyboryPrezydenckie2020 WyboryKorespondencyjne 
+__label__positive NajwyraŸniej w PO wszyscy skidawili siê Wg mnie pose³ Kierwiñski nie mia³ bladego pojêcia jak maj¹ wygl¹daæ wybory korespondencyjne Woronicza17 WyboryPrezydenckie2020 
+__label__positive odbieram Gowin jako powa¿nego polityka Jego próba okaza³a siê p³onn¹ Opozycja nie jest zainteresowana zmian¹ konstytucji gra swoj¹ grê Nie ma innej mo¿liwoœci jak WyboryKorespondencyjne Na pierwszym miejscu jest zdrowie Polaków WyboryPrezydenckie2020 
+__label__negative Nawet jak knuj¹ amp chc¹ perfidnie oszukaæ Polaków to im nie wychodzi bo pope³niaj¹ szkolne b³êdy Jarek To Je nie WyboryKopertowe BandaAmatorów 
+__label__positive opozycja za wszelk¹ cenê chce wstrzymaæ wybory majowe Wystarczy popatrzeæ na sonda¿e Z punktu widzenia politycznego ten termin jest dla nich najgorszy Nie licz¹ siê z konstytucj¹ i ze zdrowiem Polaków WyboryPrezydenckie2020 WyboryKorespondencyjne 
+__label__negative Czego PiS nie dotknie to musi to spieprzyæ WyboryPrezydenckie2020 WyboryKorespondencyjne WYBORY2020 
+__label__neutral Pakiet wyborczy dorêcza siê wy³¹cznie do r¹k w³asnych wyborcy po okazaniu dokumentu potwierdzaj¹cego to¿samoœæ i pisemnym pokwitowaniu odbioru g³osi artyku³ e paragraf ustawy Kodeks wyborczy 2 WyboryPrezydenckie2020 WyboryKorespondencyjne WYBORY2020 
+__label__positive dzia³ania opozycji anarchizuj¹ce pañstwo trwaj¹ od d³u¿szego czasu Klasycznym przyk³adem jest ¿e prezydenci miast z ramienia PO dzia³aj¹ niezgodnie z prawem ws WyboryKorespondencyjne twierdz¹c ¿e robi¹ to zgodnie z prawem WyboryPrezydenckie2020 
+__label__negative Ale jaja PiSbolszewia siê w³aœnie zaora³a WyboryPrezydenckie2020 WyboryKorespondencyjne 
+__label__negative To siê nie dzieje naprawdê Wszêdzie powoli samorz¹dowcy podejmuj¹ s³uszne decyzjê ale nie Nie z mojego kochanego miasta Ten musia³ siê wy³amaæ i z³amaæ prawo przekazuj¹c wra¿liwe dane Poczcie Polskiej WyboryPrezydenckie2020 
+__label__positive je¿eli Senat bêdzie blokowa³ zmiany ws bezpiecznego g³osowania to marsza³ek Witek mo¿e przesun¹æ WyboryPrezydenckie2020 o tydzieñ WyboryKorespondencyjne 
+__label__positive WyboryKopertowe Duda2020 Ave Duda id¹cy do urn pozdrawiaj¹ ciê 
+__label__neutral We wsi Œwibie w gminie Wielowieœ odbywaj¹ siê w niedzielê wybory uzupe³niaj¹ce do rady gminy Wiêkszoœæ mieszkañców nawet o tym nie wie Zgodnie z rz¹dowym zaleceniem zostali w domu 
+__label__negative Tylko je¿eli wycofa siê teraz z tego kabaretu W sierpniu za rok OK I nie mówiê tu tylko o bezpieczeñstwie Dla mnie nawet istotniejsze jest to w jaki sposób teraz próbuje siê zorganizowaæ Wybory Na szybko na kolanie byle jak po pisowsku 
+__label__positive A tymczasem w województwie kujawsko pomorskim odbywaj¹ siê wybory samorz¹dowe Aleksandrów Kujawski wybiera przedterminowo burmistrza Ciechocinek przeprowadza wybory uzupe³niaj¹ce do rady miejskiej Tradycyjnie w lokalach wyborczych Ani wyborcom ani wybieranym to nie przeszkadza 
+__label__negative Za moment siê dowiemy ¿e wybory korespondencyjne wywieraj¹ korzystny wp³yw na g³osuj¹cych i odstraszaj¹ wirusy WyboryKopertowe WyboryPrezydenckie2020 
+__label__positive Jeœli szczyt zachorowañ jesieni¹ to wybory powinny odbyæ siê jak najszybciej przez 
+__label__neutral Pamiêtajmy ¿e nie ma podstawy prawnej do przekazywania spisów wyborców Poczcie Polskiej Ew podstawa prawna jest w ustawie która jest w trakcie prac senackich Ona jeszcze nie obowi¹zuje i nie wiadomo czy bêdzie obowi¹zywa³a WyboryKopertowe 
+__label__neutral Dlaczego nikt nie protestowa³ przeciwko uzupe³niaj¹cym wyborom samorz¹dowym wybory 
+__label__negative Brawo za ten spot Tak to trzeba robiæ klarownie punkt po punkcie czemu WyboryKorespondencyjne s¹ ogranizacyjnym i prawnym koszmarem oraz potencjaln¹ epidemiologiczna katasfrof¹ 
+__label__positive Jak przebiega zbiórka na mieszkañców Aleksandrowa Kujawskiego którym uda³o siê prze¿yæ wyboryburmistrza Oraz dla rodzin poleg³ych wyborców nowegoburmistrza Czy zorganizowa³o most powietrzny A Owsiak zrzuca francuskie ³ó¿ka antywirusowe Aleksandrów WYBORY2020 
+__label__positive WYBORY2020 Borys Budka Nie wierzê ¿e te wybory bêd¹ uczciwe Zastanówmy siê nad logik¹ tego stwierdzenia PRZECIE¯ BUDKA JEST NIEWIERZ¥CY JAK NIEUCZCIWE MUSIA£Y BYÆ WYBORY ZA PO PSL SKORO MA TAK¥ WIARÊ 
+__label__positive Mieszkañcom miejscowoœci w których nie ma Poczty sugerujemy zamówienie prenumeraty Gazety u listonosza który dostarczaæ j¹ bêdzie w porze innych przesy³ek pocztowych Wniosek zestaw do g³osowania œmiertelny GW w porz¹dku wybory2020 
+__label__positive Przecie¿ miesi¹c temu mówi³a ¿e Konstytucja wa¿niejsza ni¿ ludzkie ¿ycie A wiêc co tak naprawdê jest wa¿niejsze A mo¿e te 5 w sonda¿ach do WyboryKorespondencyjne WyboryPrezydenckie2020 
+__label__neutral Sonda¿ made by Social Changes poparcia dla WyboryKopertowe Sonda¿ proc respondentów nie weŸmie udzia³u w wyborach prezydenckich 
+__label__neutral Spot wyborczy kandydatki na urz¹d prezydenta wywo³a³ falê komentarzy w internecie WyboryPrezydenckie2020 WyboryKorespondencyjne 
+__label__negative Co za partacze Sami uchwalili taki bubel Zgodnie z prawem listonosze roznosz¹cy pakiety wyborcze bêd¹ musieli zapukaæ do drzwi ka¿dego wyborcy sprawdziæ to¿samoœæ i przedstawiæ do podpisu potwierdzenie odbioru pakietu wyborczego WyboryKopertowe 
+__label__neutral PROGNOZA wybory prezydenckie 24 04 0 5 0 0 0 5 inni 0 WyboryPrezydenckie2020 WyboryPrezydenckie WYBORY2020 
+__label__negative A numer dowodu osobistego Ciekawie bêd¹ wygl¹da³y wyborykopertowe w zwi¹zku z wielkim wyciekiem daneosobowe 
+__label__neutral 26 04 2020 WYBORY2020 Najnowszy sonda¿ Estymator dla DoRzeczy Duda2020 7 1 4 Kosiniak2020 6 1 Ho³ownia2020 8 3 9 Kidawa2020 7 5 Biedron2020 7 1 7 Bosak2020 4 3 1 Reszta kandydatów 4 Frekwencja 
+__label__neutral Czy wy te¿ od dawna nie widzicie Krzysztofa Bosaka w TVP Bosak2020 Konfederacja WyboryPrezydenckie2020 
+__label__neutral Bez zaskoczenia w oczywiœcie Zaskoczeniem wydaje siê byæ progresywnoœæ pogl¹dów choæ to mnie akurat cieszy LatarnikWyborczy WyboryPrezydenckie2020 wybory2020 Lewica SilniRazem Biedron2020 Woronicza17 
+__label__negative PiS przygotowuje nam kolejny program z serii PLUS WYBORY pakiet wyborczy koronawirus OniWyboryMyZycie WyboryKopertowe 
+__label__neutral WyboryPrezydenckie2020 WyboryPrezydenckie2020 dziêki PiS owi jeszcze istnieje 
+__label__neutral Niezale¿nie od nielegalnoœci WyboryKopertowe jak w zgodzie z przepisami proponowanymi przez nie wzi¹æ w nich udzia³u 
+__label__neutral Czy Jacek Sasin powinien stan¹æ przed Trybuna³em Stanu Czarnobyl coronavirus koronawirus Gowin PiS wybory zostanwdomu 
+__label__negative Banda nieudaczników i kretynów PiS WYBORY2020 WyboryPrezydenckie2020 WyboryKopertowe Duda2020 
+__label__positive To mówicie towarzyszu arbuz ie ¿e WyboryKorespondencyjne s¹ niebezpieczne dla ¿ycia 
+__label__neutral Czy Andrzej Duda powinien stan¹æ przed Trybuna³em Stanu Czarnobyl coronavirus koronawirus Gowin PiS wybory zostanwdomu 
+__label__positive W Aleksandrowie Kujawskim wybory burmistrza Hej pisiory poci¹gi z trumnami Owsiak organizuje wolonatriuszy do zbierania trupów a zadba o godne pochówki naszaHiroszima Armagedon AleksandrówjakHiroszima WYBORY2020 
+__label__neutral WYBORY2020 sonda¿ Estymatora dla 23 24 kwietnia 
+__label__neutral G³os wyborczy to potê¿na broñ w demokracji Skorzystajmy z niej I nawrzucajmy Kaczyñskiemu do skrzynki Biedron2020 Wybory2020 G³osujêDecydujê 
+__label__negative Wicepremier k³amie jak z nut Stan klêski ¿ywio³owej mo¿na wprowadziæ w zwi¹zku z masowym wystêpowaniem chorób zakaŸnych oraz w sytuacji kiedy konstytucyjne œrodki s¹ niewystarczaj¹ce a to potwierdzi³a ostatnio wicepremier Wybory2020 StanKlêski 
+__label__positive Dzisiaj wybory uzupe³niaj¹ce w KILKUDZIESIÊCIU gminach To jak to jest nie widzicie sprzecznoœci WyboryKorespondencyjne WyboryKopertowe 
+__label__positive Z 5 poparciem szuka siê ró¿nych wymówek aby krytykowaæ Premiera Rz¹d wybory Kidawa B³oñska tonie I to jest niezaprzeczalny fakt WyboryPrezydenckie2020 
+__label__negative Prognoza poparcia w PSEUDOwyborach na dzieñ 5 000 mln g³osów 325 mln 810 mln 878 mln 833 mln 823 mln Frekwencja 6 pseudowybory polityka Poland Polska WYBORY2020 
+__label__positive Poniewa¿ cz³onków skoñczy³o tylko podstawówkê nale¿a³o dla nich przeprowadziæ specjalne szkolenie w zwi¹zku z WyboryKorespondencyjne A mo¿e wystarczy³o wykupiæ reklamê w Zachowaj siê tak samo jak wtedy kiedy kupi³eœ smartfon od 
+__label__positive Zagranica najchêtniej wyznaczy³a by nam prezydenta niczym caryca Katarzyna króla Stanis³awa Augusta Poniatowskiego UE TSUE WYBORY2020 WyboryPrezydenckie Duda2020 Kidawa2020 
+__label__negative Mam wra¿enie ¿e choæby siê zesrali to nie zd¹¿¹ zmieniæ prawa ani roznieœæ pakietów WyboryKopertowe WYBORY2020 PocztaPolska 
+__label__positive Dlaczego ludzie Platformy wypowiadaj¹ siê w imieniu Polaków przecie¿ ich los Polaków nigdy nie obchodzi³ WyboryKorespondencyjne WyboryPrezydenckie WYBORY2020 
+__label__positive ma racjê W³aœnie dlatego odbêd¹ siê w maju normalne wybory a ta pani mo¿e sobie organizowaæ pseudowybory w dowolnym najwygodniejszym dla momencie Duda2020 WyboryPrezydenckie WYBORY2020 
+__label__negative Hej to je¿eli prawda jest ze pokwitowanie pakietów wyborczych tylko osobiste to dlaczego tys za brak skrzynki Mo¿e za chwile bêdzie tys za nieobecnoœæ w domu w czasie wizyty listonosza WyboryKorespondencyjne 
+__label__negative Piêkne sam podstawi³ sobie nogê i wybory prezydenckie staj¹ siê niemo¿liwe do przeprowadzenia w terminie WYBORY2020 Koronawirus do r¹k w³asnych za pokwitowaniem odbioru pakietu wyborczego Takie prawo uchwali³ PiS 
+__label__positive W gminach s¹ dzisiaj wybory Jestem przekonany ¿e jak nie bêd¹ mia³y wp³ywu na liczbê chorych to WYBORY2020 odbêd¹ siê tradycyjnie 
+__label__neutral Przedterminowe wybory w Aleksandrowie Kujawskim Mieszkañcy wybieraj¹ burmistrza 
+__label__positive Powtarzam to od d³u¿szego czasu i powtórzê dziœ Wybory powinny siê odbyæ w lokalach wyborczych z zachowaniem niezbêdnych œrodków bezpieczeñstwa WyboryPrezydenckie WYBORY2020 
+__label__neutral Wybory prezydenckie koronawirus do r¹k w³asnych za pokwitowaniem odbioru Takie prawo uchwali³ PiS WYBORY2020 Z olbrzymimi podziêkowaniami dla prof Moniki i prof Ewy £êtowskiej za pomoc przy pracy nad tekstem 
+__label__negative Tak wygl¹da patologia PiS Po trupach do celu Nie wiem co chce udowodniæ rzad PiS Czy Obywatele nie mog¹ olaæ PiS jak PZPR Ile jeszcze umrze ludzi z g³upoty rzadzacego PiSiora wybory2020 wyboryœmierci2020 Wybieraj albo ¿ycie albo œmieræ Prawo wyboru w czasie epidemii 
+__label__negative Niepohamowana ¿¹dza w³adzy nie mo¿e triumfowaæ nad walk¹ o zdrowie i ¿ycie Jeœli przez prze³o¿enie wybory2020 uratujemy choæ jedn¹ osobê to warto i trzeba tak post¹piæ Mówimy ¿e bezpieczne wyboryprezydenckie mog¹ odbyæ siê za rok 
+__label__negative To jest bardzo donry spot a¿ dziw bierze ¿e nikt wczeœniej na to nie wpad³ Najwa¿niejsza jest treœæ te WYBORY2020 to jedna wielka hucpa polityczna 
+__label__neutral A kiedy prawdziwe WyboryPrezydenckie2020 
+__label__negative PiS i p Duda2020 to Wy napisaliœcie z³e prawo wyborcze To nie wina samorz¹dowców to Wasz ba³agan Obarczanie tym przez opozycji œwiadczy o wiedzy zawodowej i chyba zwyk³ym hamstwie To niegodne Prezydenta Woronicza17 WyboryPrezydenckie2020 TVP 
+__label__positive Marek Król publicysta Ma³gorzata Kidawa B³oñska powiedzia³a ¿e WyboryKorespondencyjne bêd¹ bezpieczne ale gdzieœ w sierpniu Majowe s¹ wed³ug niej niebezpieczne WyboryPrezydenckie 
+__label__positive Jestem Polakiem Nikt nie odebra³ mi praw które gwarantuje mi Konstytucja I zag³osujê w najbli¿szych WyboryPrezydenckie2020 
+__label__positive Marek Król publicysta marsza³ek Grodzki mówi o œmiercionoœnych kopertach Mamy eskalacjê strachu przeplatanego z hipokryzj¹ WyboryPrezydenckie WyboryKorespondencyjne 
+__label__positive Wybory przedterminowe dziœ w kilku miejscach w Polsce no ale te maja wg totalnej opozycji odbyæ siê nie mog¹ WyboryKorespondencyjne WYBORY2020 WyboryPrezydenckie 
+__label__negative Czy AD nie bêdzie sie wstydzil jesli zostanie wybrany w takim stylu Oh wait on wstydu nie ma koronakampania WyboryKopertowe 
+__label__negative Nie bêdê g³osowaæ Niech siê zdecyduj¹ czy jest koronawirus czy nie ma Skoro mog¹ byæ otwarte lokalne wyborcze to dlaczego nie restauracja wybory2020 ciechocinek 
+__label__negative JP2 przewraca siê w grobie widz¹c jak lewica obsadzi³a Trybuna³ Konstytucyjny politykami Paw³owicz i Piotrowiczem a wybory zorganizuje Sasin WyboryPrezydenckie WyboryPrezydenckie2020 
+__label__negative Kidawa B³oñska nie mo¿e zrezygnowaæ ze startu w wyborach bo PiS mo¿e zmieniæ termin wyborów Wykreœlenie siê bêdzie oznacza³o ¿e nie bêdzie mog³a w nich uczestniczyæ Wybory maja to skandal swojego rodzaju zamach na demokracjê WyboryPrezydenckie2020 
+__label__positive oczywiœcie ¿e idziemy a nawet jedziemy na WyboryPrezydenckie WYBORY2020 WyboryPrezydenckie2020 
+__label__neutral Chaos kontrolowany Chipy i szczepienia nadchodz¹ Co z wyborami M Dybowski wRealu24 Zapraszamy po 00 do wRealu24 WyboryPrezydenckie2020 WyboryPrezydenckie WyboryKopertowe 
+__label__negative W skrzynce awizo na obce nazwisko bo siê komuœ pomyli³a litera w adresie tygodnie do plebiscytu pocztowego wybory poczta 
+__label__negative Ostatnie sonda¿e pokazuj¹ ¿e chêæ udzia³u w Wybory deklaruje ok obywateli Z tych Duda zgarnie g³osów i jaki to bêdzie mandat do kierowania pañstwem 
+__label__positive To jak z tymi WyboryPrezydenckie WYBORY2020 WyboryPrezydenckie2020 Zarejestrowa³em siê i mam nadziejê ¿e têpaopozycja ju¿ nie bêdzie siê martwiæ ¿e jak mieszkam za granic¹ nie dane mi bêdzie g³osowaæ Zainwestujê w wyprawê do Kopenhagi i zag³osujê 
+__label__negative Dawny hippis swoimi wypowiedziami dzia³a na szkodê i w WyboryPrezydenckie2020 Czas aby rozs¹dna zast¹pi³a go NA STANOWISKU w marsza³ka Sejmu 
+__label__negative ustawa o wyborykorespondencyjne nie jest obowi¹zuj¹cym prawem pracujê nad ni¹ Senat mo¿e wnieœæ poprawki Udostêpnianie danych osobowych jest bezprawne ka¿dy ma prawo do ochrony swoich danych WyboryPrezydenckie2020 
+__label__neutral najnowszy sonda¿ MKB i Kosiniak Kamysz ex aequo Duda poza zasiêgiem pozosta³ych kandydatów WYBORY2020 
+__label__negative rz¹d nie przestrzega prawa Jeœli Poczta Polska ma przygotowywaæ spisy wyborców na podstawie dokumentów z samorz¹dów to jest pytanie o podstawê prawn¹ W Polsce obowi¹zuje RODO WyboryPrezydenckie2020 
+__label__positive Grosze Jeœli Pani bojkotuje wybory ww terminie kiedy nale¿y spodziewaæ siê wycofania swojej kandydatury skutkuj¹cej skreœleniem z listy kandydatów WyboryPrezydenckie2020 
+__label__positive Œwiêto demokracji jakim s¹ wybory majowe mog³y by byæ Ÿród³em nadziei dla ludzi ¿e rzeczywistoœæ mo¿e po woli wracaæ do normalnoœci Ale nie bo przecie¿ œmiertelne koperty 
+__label__negative Jeœli nie chcê wzi¹æ udzia³ w WyboryKopertowe to co mam zrobiæ z przesy³k¹ z Mo¿e pan wie 
+__label__neutral Grosze Czy startuje Pani WyboryPrezydenckie2020 i bêdzie je legitymizowa³a w terminie majowym jeœli PiS przeprowadzi te wybory 5 5 lub 5 
+__label__neutral SONDA¯ Andrzej Duda mia¿d¿y konkurencjê Kidawa walczy z Kosiniakiem WyboryPrezydenckie2020 maja 
+__label__negative Albo ludzie którzy nie og¹daj¹ TVP i opieraj¹ swoje przekonanie o niebezpieczeñstwie WyboryKorespondencyjne na opiniach ekspertów i lekarzy 
+__label__neutral Po oddaniu g³osu prawdopodobnie metod¹ korespondencyjn¹ potwierdŸ swój g³os w naszym systemie Pomó¿ zapobiec fa³szerstwom wyborczym Mo¿esz oddaæ g³os internetowo rejestruj¹c siê na stronie pilnujwyborow wybory2020 prezydent2020 
+__label__neutral WyboryPrezydenckie2020 Atmosfera oblê¿onej twierdzy w PocztaPolska Firma apeluje do pracowników o autocenzurê KoronawirusWPolsce COVID 19 Covid 19 COVID19 w us³udze 
+__label__positive B³a¿ej Pobo¿y Administracja pañstwo PKW bêd¹ przygotowane do wyborów majowych nawet je¿eli Senat bêdzie chcia³ wykorzystaæ w pe³ni czas przys³uguj¹cy mu do zajêcia siê spraw¹ WyboryPrezydenckie2020 
+__label__positive Kraj samorz¹dowcy którzy nie chc¹ wydaæ spisu wyborców zachowuj¹ siê antypañstwowo WyboryPrezydenckie2020 maja spis WyboryKorespondencyjne zostanwdomu z TVRepublika 
+__label__positive PolitycznaKawa o Gersdorf jej dzia³ania to cyniczna gra polityczna maj¹ca na celu parali¿ pañstwa S¹dNajwy¿szy prezydent kandydaci wybory zostanwdomu z TVRepublika 
+__label__neutral Bardzo dobry felieton Oczywiœcie to Kaczyñski jest g³ównym winowajc¹ lecz ka¿dy w partii w rz¹dzie mo¿e te¿ coœ zrobiæ Wystarczy twardy krêgos³up i trochê przyzwoitoœci WyboryKorespondencyjne WyboryPrezydenckie WYBORY2020 
+__label__positive B³a¿ej Pobo¿y Trwaj¹ przygotowania do wyborów maja Jeœli ze wzglêdu na pewn¹ obstrukcjê jakiej spodziewamy siê w Senacie bêdzie terminem niemo¿liwym wówczas zgodnie z prawem jest mo¿liwoœæ przesuniêcia wyborów na maja WyboryPrezydenckie2020 
+__label__neutral Mamy Mg³awice Andromedy a teraz Osza³amiaj¹ce zdjêcie z Mg³awicy Koñski £eb na dwa tygodnie przed wyborami to prognozuje sukces dla Polski w WyboryPrezydenckie2020 WyboryKorespondencyjne oraz w walce z KoronawirusWPolsce 
+__label__positive W gminach trwaj¹ Wybory uzupe³niaj¹ce Komisje s¹ otwarte ale chêtnych do g³osowania ma³o W turystycznym Ciechocinek na ulicach pustki Nie g³osujê Niech siê zdecyduj¹ jest Koronawirus czy nie ma mówi w³asciecielka zamkniêtej restauracji 
+__label__neutral Na godz 5 w wyborach uzupe³niaj¹cych do Rady Gminy Sêdziejowice zag³osowa³o mieszkañców z uprawnionych do g³osowania WYBORY2020 koronowiruswpolsce 
+__label__neutral Wed³ug sonda¿u Social Changes respondentów deklaruje chêæ g³osowania na Na drugim miejscu znaleŸli siê ex aequo z poparciem kandydatka i szef WyboryPrezydenckie2020 
+__label__positive Fogiel Samorz¹dowcy którzy odmawiaj¹ przekazania spisu wyborców realizuj¹ politykê swojej partii WYBORY2020 
+__label__negative pan wicepremier Sasin pos³uguje siê nie mniej atrakcyjn¹ formu³¹ co prawda ustawa jeszcze nie obowi¹zuje ale zak³adamy ¿e obowi¹zywaæ bêdzie Na to nie wpadliby nawet sowieccy prawnicy od s³usznej woli ludu PocztaPolska WyboryKorespondencyjne WyboryKopertowe wieszwiêcej 
+__label__positive Szanowni i skoro czeœæ z was narzeka ¿e g³osuje zdalnie inaczej ni¿ póŸniej system zlicza to rozumiem ¿e na posiedzenie 8 maja stawiacie siê osobiœcie prawda Maseczkê na twarz rêkawiczki i mo¿ecie zag³osowaæ osobiœcie WYBORY2020 
+__label__negative Druki które Poczta wrzuci nam do skrzynek przed maja czyli przed wyjœciem ustawy o WyboryKorespondencyjne z Sejmu i rozporz¹dzeniami do niej s¹ zwyk³ymi drukami nie posiadaj¹cymi ¿adnej mocy prawnej Skoro tak mog¹ podlegaæ dowolnemu obrotowi w tym handlu co siê stanie 
+__label__neutral Ludzie musz¹ mieæ szansê zag³osowaæ na kandydata opozycji Jeœli nie bêd¹ mieli tej okazji a w wyborach wezm¹ udzia³ tylko wyborcy nie bêdzie mo¿na mówiæ o ¿adnych fa³szerstwach Nie bêdzie mo¿na podwa¿yæ wyniku bo te wybory po prostu wygra Wybory2020 
+__label__neutral Za dwa tygodnie wg obecnych rozporz¹dzeñ wybory prezydenckie WyboryPrezydenckie2020 Duda2020 PAD2020 AD2020 
+__label__neutral 2 2 Jedynymi w mojej ocenie którzy potrafi¹ dotrzeæ swoim przekazem do obywateli s¹ i Proste konkretne i odwa¿ne komunikaty Doœæ dobry spot stworzy³ choæ mnie osob nie przekonuje To bêdzie kluczowy elem kampanii WYBORY2020 
+__label__neutral 140 miast i gmin na Œl¹sku przeciw wyborom w czasie epidemii Chc¹ przesuniêcia terminu Duda2020 wieszwiecej Wybory2020 
+__label__neutral 1 2 Przepraszam za umieszczenie tu swojego komentarza politycznego ale po prostu muszê Tak tragicznego spotu w wykonaniu KO nigdy nie widzia³em Kompletny strza³ w kolano w kwestii przekazu do odbiorców i obywateli Ca³kowity brak zrozumienia komunik interpers Wybory2020 
+__label__positive WYBORY2020 nie ma koronowirus przez WyboryKopertowe siê nie rozprzestrzenia z tej strony ¿adnego nara¿enia nie widzê Za to nara¿enie Polaków wzrasta gdy siê odbêd¹ przyk³adem Bawaria wieszwiecej 
+__label__negative 2 miesi¹ce aresztu dla kobiety która wiedz¹c ¿e jest zaka¿ona wysz³a na zakupy Politycy którzy organizuj¹ pseudowybory i dzia³aj¹ bez podstawy prawnej bezkarni 
+__label__positive z czy Poczta Polska zdo³a przygotowaæ WyboryKorespondencyjne Moim zdaniem zdo³a WyboryPrezydenckie2020 
+__label__positive KidawaTV Jprdl kidawa2020 WyboryPrezydenckie2020 WyboryKopertowe WyboryKorespondencyjne Nie strasz babo ludzi tym wirusem bo jakbyœ tak samo siê go ba³a jak boisz siê o spo³eczeñstwo to nie prezentowa³abyœ siê tak 
+__label__positive z to co robi opozycja jest doœæ niesmaczne Mówienie o listonoszach jako pos³añcach œmierci czy kopertach jako kopertach œmierci to straszenie ludzi w momencie gdy s¹ wyczuleni na takie lêki WyboryPrezydenckie2020 
+__label__positive Twierdzicie ¿e przesy³ka pocztowa jest œmiertelna podczas gdy Polacy codziennie robi¹ zakupy przez internet i doskonale wiedz¹ jak wygl¹da sytuacja zwróci³ siê do polityków wicerzecznik Wybory2020 
+__label__positive Ja pójdê to moje prawo i obowi¹zek które daje mi Konstytucja to taki zestaw praw i obowi¹zków na które czêsto opozycja siê powo³uje jak widaæ tylko na ok³adki nie artyku³y w niej zawarte Konstytucja WYBORY2020 
+__label__neutral W ka¿dej komisji wyborczej bêd¹ wyznaczeni przez mê¿owie zaufania Bêdziemy apelowaæ do OBWE i Rady Europy o monitorowanie tych wyborów ¿eby nie dosz³o do fa³szerstw na konferencji w Warszawie Biedron2020 Koronawirus Wybory2020 
+__label__positive Kandydat na prezydenta zaapelowa³ do wyborców kandydatów opozycyjnych o udzia³ w wybory2020 Zapowiedzia³ te¿ wystosowanie proœby do OBWE i Rady Europy o obserwowanie przebiegu wyborów 
+__label__negative Z sonda¿y wynika ¿e prawie Polaków nie chce wyborów w maju To faktycznie mysi byæ frustruj¹ce koronawirus WyboryPrezydenckie2020 
+__label__positive By³ rok wtedy mo¿na by³o WyboryKorespondencyjne bo rz¹dzi³o i a teraz to jest zamach na demokracjê TK oceni³ ¿e g³osowanie takie jest zgodne z Konstytucj¹ A wiêc wszystko jasne WyboryPrezydenckie2020 s¹ zgodne z prawem Woronicza17 Minela20 
+__label__positive Maj Wybory maja tradycyjne Robimy zakupy za³atwiamy inne sprawy to na wybory marsz Wasza troska o zdrowie Polaków jest udawana hipokryci Ma³gorzatka gadka szmatka 
+__label__neutral W niedzielê polecamy analizê która przyjrza³a siê sytuacji wokó³ WyboryPrezydenckie2020 w Polsce w dobie koronawirus Cieszymy siê ¿e mogliœmy do³o¿yæ siê do tego opracowania poprzez nasze wnioski dot proponowanych zmian w prawie wyborczym 
+__label__negative pseudowybory w tej formie nie spe³niaj¹ kryteriów rzetelnych wyborów i zwiêkszaj¹ ryzyko zachorowania lub œmierci Co w tym nieprawdziwego 
+__label__neutral SONDA Jakie POparcie w sonda¿ach musi mieæ Kidawa2020 ¿eby WyboryPrezydenckie2020 mog³y siê odbyæ w ustawowym terminie 
+__label__negative £ukasz Warzecha Wicepremier twierdzi ¿e co prawda ustawa o WyboryKorespondencyjne jeszcze nie obowi¹zuje ale zak³adamy ¿e obowi¹zywaæ bêdzie Na to nie wpadliby nawet sowieccy prawnicy od s³usznej woli ludu 
+__label__positive W baku najbli¿szego tankowania nie widaæ a meta coraz bardziej pod górkê Trzeba pchaæ ko³ek w szprychy rywala bo meta to kompromitacja WyboryPrezydenckie2020 Wybory 
+__label__positive Kraj Czarnek kandydatka KO ile razy siê odezwie tyle razy ma jak¹œ gafê zaprzepaszczaj¹c szansê na wysoki wynik wyborczy WyboryPrezydenckie wybory2020 TVRepublika 
+__label__positive O Zió³ek Raptem zatroszczyli siê o moje zdrowie chc¹c mnie pozbawiæ czynnego prawa wyborczego WYBORY2020 
+__label__positive Ustawa o WyboryKorespondencyjne przetrzymywana jest ca³y czas w Senat przez nieodpowiedzialnego marsza³ka z PO Platformie zale¿y nie na zdrowiu Polaków tylko na kryzysie konstytucyjnym 
+__label__neutral By³y szef Lex Super Omnia z³o¿y³ za¿alenie na ekspresowe umorzenie œledztwa dotycz¹cego nara¿enia zdrowia Polaków w zwi¹zku z organizacj¹ przez PiS wyborów prezydenckich w czasie epidemii wybory2020 
+__label__negative Nie znam nikogo kto chcia³by wyborów w maju To ogromny mandat ale i nadzieja wobec tych którzy chc¹ zablokowania wyborów Sasina pseudowybory 
+__label__neutral Nie pojmujê dlaczego dlaczego wdali siê w dyskusjê o sposobie prowadzenia wyborów WyboryPrezydenckie2020 z opozycj¹ wobec rozumu i procentow¹ Ma³gorzat¹ Kidawa2040 Którzy maj¹ na ustach i koszulkach KONSTYTUCJÊ 
+__label__negative Panie Ryszardzie niech pan bzdur nie opowiada Ma³o jest testów ma³o oficjalnie zara¿onych Nawet za testami dla lekarzy nie zag³osowaliœcie szczerze w kawana³awê Lewica SilniRazem WyboryPrezydenckie2020 WyboryKorespondencyjne WyboryKopertowe 
+__label__neutral Historia siê podobno nie powtarza a rymuje Wydaje mi siê ¿e teraŸniejszoœæ zrymowa³a siê do roku Nastêpuje jakiœ rodzaj dekompozycji kreowania podzia³ów wydawa³oby siê nie do zasypania WyboryKorespondencyjne WyboryKopertowe Wybory koronawirus pandemia 
+__label__positive W Aleksandrowie Kujawskim dziœ przedterminowe wybory burmistrza miasta a w Ciechocinku wybory uzupe³niaj¹ce do Rady Miasta Glosowanie odbywa siê zgodnie z zaleceniami sanitarnymi w sprawie œrodków bezpieczeñstwa wybory2020 koronawiruswpolsce 
+__label__negative Otworzyæ lasy Otworzyæ galerie Oddaæ rowery miejskie Przywróciæ niedziele handlowe Otworzyæ teatry i kina Odwo³aæ wybory bo niebezpiecznie Czegoœ Ty siê na¿ar³a droga opozycjo WyboryKorespondencyjne 
+__label__negative CytatFOR Warto znaæ treœæ Konstytucji naszaKonstytucja pseudowybory 
+__label__negative To czy siê uda na posiedzeniu maja zablokowaæ ustawê PiS o wyborach zale¿y od wielu czynników na które opozycja ma ma³y wp³yw Ale na jedno ma na w³asn¹ frekwencjê Na tym posiedzeniu MUSZ¥ byæ wszyscy zalogowani gotowi i przytomni ¯adnej pob³a¿liwoœci wybory2020 
+__label__positive wybory Dowód telefon konto bankowe te powi¹zanie powinno wystarczyæ do g³osowania Komisja mo¿e sk³adaæ tylko z opozycji bo takich wyborów nie mo¿na zmanipulowaæ Przez internet bankomat czy czytnik listonosza Technikalia to ju¿ 
+__label__neutral WYBORY2020 Daæ szansê P orozumieniu ale byæ gotowym na maj Nie bojkotowaæ bo nikogo nie bêdzie obchodziæ ¿e obra¿ona opozycja odesz³a z piaskownicy Niech wyborcy poka¿¹ ¿e pierwsza tura nie dla PAD to druga na pewno nie bêdzie 
+__label__neutral Jeœli WyboryPrezydenckie2020 siê odbêd¹ weŸmiesz w nich udzia³ 
+__label__positive Ale ta migawka TVP gdzie zestawiono ze sob¹ czêœæ konferencji Grodzkiego gdy mówi o zabójczych kopertach z zeznaniami ludzi mówi¹cych o tym ¿e dali mu pieni¹dze za operacje w kopercie to mistrzostwo WYBORY2020 koperty 
+__label__positive Chcia³abym nak³oniæ pañstwa do g³osowania To jest ten moment na który tak d³ugo czekaliœmy Mamy czas pandemii ka¿dy siê boi WeŸmy ten strach i przekujmy go w sprzeciw Edyta Piasecka na konferencji w Warszawie Biedron2020 Koronawirus Wybory2020 
+__label__neutral Nie przypominam sobie wyborów które budzi³yby tak wiele emocji Pomimo w¹tpliwoœci czy je legitymizowaæ uzna³am ¿e nie nale¿y oddawaæ tych wyborów i zag³osujê Emilia Wudkiewicz Madejczyk na konferencji w Warszawie Biedron2020 Koronawirus Wybory2020 
+__label__positive Jeœli te wybory bêd¹ sfa³szowane to bêdziemy protestowaæ i bêdziemy je zaskar¿aæ Ale jeœli siê wszyscy wycofamy to nie bêdziemy mieli jak tych wyborów zaskar¿yæ na konferencji w Warszawie Biedron2020 Koronawirus Wybory2020 
+__label__neutral No I ¿e najwa¿niejsza jest konstytucja Konstytucja demokracja wybory 
+__label__neutral Kiedy wybory Spór w Kawiarence wybory2020 kawiarenkapolityczna 
+__label__neutral Pojedynek Dawida z Goliatem J Gowin kontra J Kaczyñski Nie s¹dzê A w zastanawia siê o co gra rz¹dPiS wybory 
+__label__positive Niezale¿nie jakie bêd¹ te WyboryPrezydenckie2020 g³osujê na WYBORY2020 WyboryKorespondencyjne KoronawirusWPolsce 
+__label__positive Woronicza17 Dla pos³a Kierwiñskiego cd wyroku TK z w spr tajnoœci g³osowania w WyboryKorespondencyjne swoj¹ drog¹ jak PO zg³asza³a postulat rozszerzenia g³osowania korespondencyjnego w to ¿adnych problemów z tajnoœci¹ wyborów nie widzieli Wybory2020 
+__label__positive elektoratu PiS chce g³osowaæ w tych wyborach Kto wygra te wybory jeœli siê nie zmobilizujemy Ka¿dy g³os od nieg³osowaniu to pomoc Andrzejowi Dudzie na konferencji w Warszawie Biedron2020 Koronawirus Wybory2020 
+__label__neutral Wybory to potê¿na broñ niejedn¹ w³adzê obali³y Nawrzucajmy Kaczyñskiemu do skrzynki W Rosji i na Bia³orusi opozycja startuje choæ wie ¿e wybory bêd¹ sfa³szowane po to ¿eby daæ spo³eczeñstwu nadziejê na konferencji w Warszawie Biedron2020 Koronawirus Wybory2020 
+__label__negative Bartosz w na ³awê ¿¹danie od samorz¹dów przekazania spisów wyborców ³amie nawet przeg³osowan¹ ju¿ przez Sejm ale wci¹¿ nieuchwalon¹ jeszcze PiSowsk¹ ustawê o wyborach korespondencyjnych WyboryPrezydenckie2020 WyboryKopertowe 
+__label__positive w KawaNa£awê w Konstytucji jest zapisana tajnoœæ korespondencji wiêc WyboryKopertowe bêd¹ tajne Kn£ wieszwiêcej WyboryPrezydenckie2020 wybory2020 WyboryKorespondencyjne WyboryPrezydenckie KoronawirusWPolsce koronawiruspolska PocztaPolska poczta 
+__label__neutral Wszystko wskazuje na to ¿e Kaczyñski przeprowadzi wybory czy to nam siê podoba czy nie Mo¿emy wywiesiæ bia³¹ flagê Mo¿emy te¿ zrobiæ to na co czekaliœmy przez lat skorzystaæ z naszego prawa wyborczego na konferencji w Warszawie Biedron2020 Koronawirus Wybory2020 
+__label__negative O ile jakiœ czas temu uwa¿a³em za jedynego z normalnych ministrów rzadu PiS to po ostatnich tekstach o bezpiecznych WyboryKopertowe tylko takie mam zdanie o 
+__label__neutral Œmiertelnoœæ nieskoñczona WYBORY2020 
+__label__negative Nie rozumiem jednego Ka¿dy wie ¿e wybory w Bawarii skoñczy³y siê skokiem zachorowañ PiS udaje ¿e nie widzi to czemu ¿aden polityk Opozycja który wystêpuje w TV nie poka¿e tych danych politykowi PiS WyboryPrezydenckie2020 WyboryKorespondencyjne 
+__label__neutral Prezydent Gdañska amp Sopotu sk³adaj¹ zawiadomienia do prokuratury na Ale w Gdañsku jest Polska a nie Niemiecka W obronie w Gdañsku w rwalczono ju¿ Woronicza17 WyboryKorespondencyjne 
+__label__neutral Czy je¿eli WYBORY2020 odby³y siê w normalnym trybie czyli w lokalach wyborczych wzi¹³ byœ w nich udzia³ Podaj dalej 
+__label__negative Z cyklu zrób to sam podpowiada jak bezpiecznie oddaæ g³os WyboryKorespondencyjne WYBORY2020 
+__label__negative wybory2020 zrób to sam Coolturalna kwarantanna by sawka 
+__label__negative A jak ktoœ wpisze na oœwiadczeniu inny PESEL nie podpisze albo napisze bluzgi na najlepszego kandydata To co z g³osem Bo jeœli oœwiadczenie bêdzie korelowane z kart¹ do g³osowania to gdzie tu jest tajnoœæ g³osowania WyboryPrezydenckie2020 WyboryKorespondencyjne woronicza 
+__label__negative Panie Proszê sobie wyobraziæ ¿e Morawiecki nakazuje przekazaæ spisy wyborców nie PocztaPolska a bo Sasin w³aœnie jej zleca przygotowanie wyborów Czy samorz¹dy musia³yby przekazaæ nasze dane osobowe PFN WyboryKorespondencyjne woronicza17 wybory 
+__label__neutral Panie a czy tego typu odwo³ania do solidarnoœci s¹ wielk¹ czy ma³¹ pami¹tk¹ Pytanie Jak Pan zareaguje na poni¿szy apel jednego z jak rozumiem entuzjastów pañskich rz¹dów Pytanie Czy WyboryKopertowe maj¹ na celu budowê takiej w³aœnie Polski bez œcierw 
+__label__negative muremzaEw¹ Z³e i niebezpieczne czasy dla obywateli gdy w³adza dusi w zarodku bez dowodów wszczête postêpowanie w sprawie mo¿liwoœci nara¿enia naszego ¿ycia i zdrowia WYBORY2020 Covid 19 bezkarnoœæw³adzy 
+__label__positive Goœka ma kapitan Borysek wariuje bo mu ³ajba tonie prof Tomasz Koperta widzi œmiercionoœne koperty a jak bra³ od pacjentów to nic mu siê nie sta³o dajcie sobie ju¿ spokój z tymi wyborami nie macie szans i tyle w tym temacie WyboryKorespondencyjne 
+__label__negative Pewnie pisorku nie wiesz ¿e TVN jest amerykañski czyli twój ulubiony Nie uchwalono w Polsce ustawy o WyboryKopertowe Komisje wyborcze nie mog¹ siê zebraæ bo bo obowi¹zuje zakaz zgromadzeñ powy¿ej dwóch osób ¯yjesz misiu w matrixie 
+__label__negative Myœlê ¿e ty A co do wniosku który siê nasuwa Skoro tak to ani korespondencyjne ani jak dotychczasowi WyboryPrezydenckie2020 nie zaszkodz¹ w ¿aden sposób Polakom To o co to CA£E HALO 
+__label__neutral Woronicza17 Specjalnie dla pos³a Kierwiñskiego Wyrok TK z r w sprawie zakazu istotnych zmian w kodeksie wyborczym na m cy przed wyborami TK rozstrzyga co jest zmian¹ istotn¹ w kw i co mo¿e byæ wyj¹tkiem od tej regu³y WYBORY2020 WyboryPrezydenckie2020 
+__label__negative Rzecz w tym ¿e prawie nikt siê do tych komisji nie zg³osi³ WyboryPrezydenckie2020 
+__label__negative wieszwiecej jedziemy pojeby woronicza17 wtylewizji kawanalawe wybory2020 wybory wyboryprezydenckie plan giertycha dla totalnych oszo³omów 
+__label__positive Kierwiñski nie musisz braæ udzia³u w WyboryPrezydenckie2020 nikt Ciê nie zmusza Woronicza17 
+__label__negative Politycy PiS niedawno wprowadzili program Rzeka polega na pog³êbianiu dna i trzymaniu siê koryta Grozi nam susza stulecia ale wa¿niejsze s¹ WyboryKorespondencyjne 
+__label__positive No proszê pañstwa pose³ Kierwiñski nawet nie wie przeciwko czemu protestuje WyboryKorespondencyjne Woronicza17 
+__label__negative Przestrzeganie praw jest o wiele wa¿niejsze od ich ustanawiania WyboryPrezydenckie2020 
+__label__negative £añcuchy którymi zabezpiecza siê naród na wypadek gdyby ogarnê³o go szaleñstwo to konstytucje symbol trwa³oœci wiêzi miêdzygeneracyjnej tradycji historycznej WyboryPrezydenckie2020 
+__label__positive Da sie da Wybory PR powinny odbyæ sie normalnie Je¿eli stoimy w kolejkach do sklepu czy na poczte to mo¿na normalnie oddaæ g³os WYBORY2020 Duda2020 
+__label__neutral Gdy jest wolna prasa i ka¿dy cz³owiek mo¿e j¹ czytaæ prawa s¹ bezpieczne WyboryPrezydenckie2020 
+__label__neutral Drzewo Wolnoœci trzeba podlewaæ od czasu do czasu krwi¹ patriotów i tyranów WyboryPrezydenckie2020 
+__label__neutral Doprawdy dr¿ê o swój kraj jeœli pomyœlê ¿e Bóg jest sprawiedliwy WyboryKorespondencyjne WyboryPrezydenckie2020 
+__label__negative To dla was droga opozycjo i dla tych co maj¹ problem z krêgos³upem WYBORY2020 PADisBAD 
+__label__negative W takich sytuacjach czyli stety niestety prawie codziennie cieszê siê ¿e pracujê w MuremZaEw¹ prokurator która nie obawia³a siê dzia³aæ a polityczni nominanci i tak w ci¹gu h wieczorkiem skasowali to postêpowanie wybory2020 koronawirus 
+__label__positive Tacy jak prof Czarnek teraz s¹ potrzebni szczególnie tym którzy maj¹ obawy co do WyboryKorespondencyjne na skutek chaosu informacyjnego Poprostu wiêcej ludzi merytorycznych 
+__label__negative Pisorku TVN jest amerykañski Poza tym Sejm nie uchwali³ ustawy o WyboryKopertowe wiêc s¹ one nielegalne zatem obowi¹zuje poprzednie prawo Niestety nie powo³ano ¿adnych Komisji Wyborczych no nikt nie chce w niej uczestniczyæ 
+__label__neutral wybory2020 Zadziwiaj¹ce to spo³eczeñstwo które zagonione przez rz¹d batem do domów ze strachu godz¹ce siê na durne ograniczenia wystawiane na poœmiewisko przez polityków i media to spo³eczeñstwo chce wybuchaæ œmiechem by poni¿yæ innych i to tylko dlatego ¿e ktoœ pozwoli³ 
+__label__negative Wszyscy pracuj¹ na Warto doceniæ ile wysi³ku i kasy to kosztuje WYBORY2020 WyboryPrezydenckie2020 WyboryPrezydenckie 
+__label__negative Rz¹dz¹cy plebiscytem wyborczym ju¿ dawno przys³onili problem koronozarazy Wyp³aszczenie krzywej ma³¹ iloœci¹ testów wpuszczenie ludzi do lasu i na boiska to nie wszystko koronawiruspolska COVID19 coronavirus CoronaVirusUpdate koronawirus WyboryKopertowe Wybory2020 
+__label__positive Kierwiñski nje bojsja frekwencja WyboryPrezydenckie2020 bêdzie wy¿sza ni¿ do tej pory Woronicza17 
+__label__negative Woronicza17 TARNÓW NIE UDOSTÊPNI POCZCIE POLSKIEJ DANYCH MIESZKAÑCÓW W co gra apolityczny prezydent Czy prezydent przejdzie such¹ stop¹ przez przygotowanie WyboryPrezydenckie2020 w Tarnowie WyboryKorespondencyjne 
+__label__negative prowadzi Woronicza17 w rêkawiczkach jednoczeœnie uparcie twierdz¹c ¿e koronawirus nie przenosi siê na papierze jako argument do wziêcia udzia³u w WyboryKopertowe 
+__label__negative Pomimo ¿e Sejm nie rozstrzygn¹³ czy WyboryKopertowe w ogóle siê odbêd¹ zmilitaryzowana Poczta ju¿ nielegalnie pracuje na tzw wyborami 
+__label__neutral Polacy potrzebuj¹ dziœ silnej stabilnej w³adzy powiedzia³ w Woronicza17 WyboryPrezydenckie2020 wybory2020 
+__label__positive Zaraza têczowa i zaraza platformiana odejdzie w zapomnienie Wygra prawo Wygra sprawiedliwoœæ Wygra rodzin¹ silna Polska PAD2020 WyboryPrezydenckie2020 zostanwpalacu 
+__label__positive Wybory w województwie Kujawsko Pomorskim odbywaj¹ siê bez przeszkód Ludzie g³osuj¹ zachowywane s¹ œrodki ostro¿noœci wszyscy ¿yj¹ Kto myœli samodzielnie wie ¿e opozycja jest têpa zaczynaj¹c od PO po Konfederacje Wybory da³oby siê normalnie zorganizowaæ WYBORY2020 
+__label__positive Nie róbcie cyrku otwórzcie lokale wyborcze i zróbcie normalne WyboryPrezydenckie2020 Woronicza17 
+__label__positive W Poczcie Polskiej powsta³ zespó³ który na roboczo pracuje przygotowuj¹c nasze dzia³ania w zakresie obs³ugi wyborów korespondencyjnych stwierdzi³a rzecznik WyboryPrezydenckie2020 WyboryKorespondencyjne TYLKO U NAS 
+__label__negative Woronicza17 OTUA nie przejdzie Konstytucja demokracja wybory 
+__label__positive Szanuje pani zdanie ale nie id¹c na wybory dajemy kolejne lata Dudzie i jego zwierzchnikowi Kaczyñskiemu Czy tego chcemy UwolniæWybory Wybory2020 LiderOpozycji 
+__label__positive Woronicza17 Nikt nie bêdzie mi odmawia³ Konstytucyjnego prawa do udzia³u w WyboryPrezydenckie2020 Ja zag³osuje napewno korespondencyjnie albo pójdê do komisji ¯aden kierwinski z PO tego mi nie zabroni 
+__label__positive A ja chcê zag³osowaæ korespondencyjnie w WyboryPrezydenckie2020 I co mi Kierwiñski zrobisz Zabronisz mi Woronicza17 
+__label__neutral Walka o ogieñ wersja neandertalczków z XXI w Oni ju¿ wiedz¹ ¿e wybory to nie jest koniec a dopiero pocz¹tek zmian I to jest ostatnia szansa na oficjalne przywrócenie historycznej prawdy zak³amanej ich przekazem od czasów moskiewskich WYBORY2020 WyboryPrezydenckie 
+__label__negative Potwierdzamy nasze wczorajsze rewelacje Targi opozycji wraz z Gowinem dobieg³y koñca I zakoñczy³y siê powodzeniem Rz¹dy PiS dobiegaj¹ koñca Gowin koronawirus Covid 19 wybory zostañwdomu PiS 
+__label__neutral Rzucili siê zbójcy na spot który oddaje prawdê Nie zrobili nic ze s³u¿b¹ zdr poza mo¿liwoœci¹ zarobienia na niej vide pose³ Sawicka ta od Tomka Sprywatyzowali ile zd¹¿yli a w czasie COVID19 prywatne szpitale pokaza³y jak traktuj¹ pacjentów WyboryPrezydenckie2020 
+__label__positive Ludzie namawiaj¹cy do bojkotu WyboryKorespondencyjne i sami w nich nie g³osuj¹cy musz¹ liczyæ siê z tym ¿e zwiêkszaj¹ oni szansê na zwyciêstwo ju¿ w pierwszej turze WyboryPrezydenckie2020 
+__label__neutral Dzisiaj mieszkañcy Kozub wybieraj¹ swojego przedstawiciela w Radzie Gminy Sêdziejowice Wojewoda nie zmieni³ terminu choæ minister Szumowski powiedzia³ ¿e tradycyjne g³osowanie bêdzie bezpieczne za oko³o lata wybory koronawiruspolska 
+__label__positive co za ironia ¿e stan polskiej demokracji i praworz¹dnoœci zale¿y od decyzji Gowina WyboryKopertowe 
+__label__positive Podpowiadam sztabowi PO i grupie wsparcia z WSI w któr¹ stronê bydowaæ narracje opart¹ na skojarzeniach Poczta Listonosz Koperta z wirusem Wybory Œmieræ PiSPoczta Koniecznie naciskaæ ¿e listonosze s¹ nosicielami Pozdrowienia od dr Goebbelsa Wybory2020 
+__label__neutral Rozpoczê³y siê przedterminowe wybory burmistrza Aleksandrowa Kujawskiego Dzia³a osiem obwodowych komisji wyborczych Lokale wyborcze s¹ otwarte od godziny 0 do 0 WyboryPrezydenckie2020 i Zabójcze Koperty TêpaOpozycja 
+__label__positive W Jaros³awiu by³y wybory wójta i zosta³y przeprowadzone w taki sposób ¿e zaka¿eñ nie ma WYBORY2020 
+__label__positive Czyli listy rachunki za pr¹d gaz i inne przesy³ki w czasie epidemii koronawirus a to œmieræ Spot na poziomie kretynizmu Kidawa2020 Wybory2020 
+__label__negative mówi to co zadowoli prezesa Pomys³ przeniesienia wyborów na jesieñ tez skutkowa³ wró¿b¹ jesiennej fali zachorowañ Œmiem go nazwaæ Flamastrem prezesa od analiz WyboryKorespondencyjne Prze³o¯YÆwybory Koronawirus 
+__label__negative PiS argumentuje ¿e BRONI KONSTYTUCYJNEGO terminu wyborów Dlatego £AMIE KONSTYTUCJÊ i zmienia zasady wyborów na miesi¹c przed ZABIERA POWSZECHNOŒÆ i TAJNOŒÆ WYBORÓW A wszystko dla jednego opêtanego staruszka WYBORY2020 WyboryKopertowe 
+__label__negative Jest kolejny problem w zwi¹zku z WyboryKorespondencyjne Ktoœ jest zameldowany w danym mieszkaniu ale tam nie mieszka tylko wynajmuje obcym ludziom Jego zameldowanego Pakiet wyborczy przyjdzie do tego mieszkania a ci ludzie powiedz¹ ¿e nic nie przysz³o i zag³osuj¹ za niego 
+__label__positive Grodzki tak pracuje ciê¿ko nad podpisaniem ustawy o WyboryKorespondencyjne WYBORY2020 WyboryPrezydenckie2020 ¿e skorzysta tylko Kidawa2200 MKB 
+__label__negative Oby te proroctwo siê spe³ni³o Stop anarchii Konstytucja demokracja wybory 
+__label__negative Pan Duda i wszystko znów siê uda Co do chu Co to jest Popalone styki mefedronem Duda2020 Bosak2020 WYBORY2020 
+__label__negative Nikt nie ma prawa zmusiæ mnie do wziêcia udzia³u w przestêpstwie Wybory to mój obowi¹zek a nie przymus Róbcie sobie szopkê z PiSem walczycie o sto³ki Ja o zdrowie i bezpieczeñstwo bliskich PseudoWybory 
+__label__negative Je¿eli wybory mog¹ siê odbyæ maja bo i tak chodzimy na zakupy i do pracy to dlaczego szko³y s¹ zamkniête do maja WyboryPrezydenckie2020 Covid 19 
+__label__neutral WyboryKorespondencyjne nie dla Polaków z zagranicy Jak g³osowa³y osoby z zagranicy w wyborach parlamentarnych w roku 95 89 67 I wszystko jasne Prawie osób zag³osowa³o na lub 
+__label__negative Mo¿e to jest jakiœ pomys³ ale nie ³atwy do realizacji WyobraŸmy sobie ¿e wszyscy deklaruj¹cy udzia³ w WyboryPrezydenckie2020 pójd¹ na pocztê stan¹ poczekaj¹ czasu ma³o Trudne do realizacji bo s¹ ograniczenia KoronawirusWPolsce obojêtne jak bêdê g³osowaæ w ka¿dych warunkach 
+__label__neutral Stalin nikt nie bêdzie s¹dzi³ zwyciêzców WYBORY2020 
+__label__neutral 15dni do WyboryPrezydenckie2020 W intencji Pana Prezydenta Andrzeja Dudy i w intencji Ojczyzny Pod Twoj¹ obronê Matko na Niebie Janie Pawle II zawierzamy Ci Ojczyznê B³ Ksiê¿e Jerzy Popie³uszko B³ Kardynale Stefanie Wyszyñski módlcie siê za nami KRÓLOWO POLSKI 
+__label__negative £ukasz Warzecha Mo¿na spytaæ czy leci z nami pilot W¹tpiê Wszystko wskazuje na to ¿e jesteœmy w sytuacji która rz¹dz¹cych przeros³a pod wieloma wzglêdami wybory2020 covid19 
+__label__neutral Komisja g³osu nie zabierze bo jest apolityczna Jednoczeœnie jej szef przyznaje Tu w PKW nie ma co ukrywaæ s¹ osoby które zosta³y wskazane przez konkretne kluby poselskie wybory2020 PKW 
+__label__negative Pomijaj¹c koronawirus najwiêkszym problemem WyboryKorespondencyjne jest ich tajnoœæ a konkretnie jej brak Jeœli komuœ mi³e s¹ jego dane osobowe nie weŸmie udzia³u w czymœ takim 
+__label__positive Naziœci z Wyborczej zrobili z listonoszy roznosicieli zarazy WyboryPrezydenckie WyboryKopertowe 
+__label__negative Idziemy na dno WyboryKopertowe covid19polska 
+__label__positive Tylnymi drzwiami na prezydenta Dzisiaj marsza³kiem SejmuRP Jutro og³aszam odwo³anie WyboryPrezydenckie2020 a od 08 2020 og³oszê siê PrezydentRP przy poparciu TotalnieG£UPIAoPOzycja TakiGoœæ 
+__label__negative Dlaczego Sasin PiS i nominaci PiS na Poczcie pozostan¹ bezkarni za próbê wy³udzenia naszych danych W maju jak wejdzie w ¿ycie nowy kodeks wyborczy ich czyn nie bêdzie ju¿ przestêpstwem i ochroni ich paragraf Kodeksu Karnego WyboryKopertowe WyboryPrezydenckie 
+__label__negative Wobec przewidywanego przed³u¿enia stanu wyj¹tkowego w JP realizacja czynnego prawa wyborczego wi¹¿e siê nie tylko z nara¿eniem w³asnego zdrowia ale tak¿e z niezastosowaniem siê do apeli lokalnych w³adz dot unikania wszelkich niepotrzebnych wyjœæ oraz zgromadzeñ Wybory COVID19 

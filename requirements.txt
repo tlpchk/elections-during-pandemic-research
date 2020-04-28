@@ -1,0 +1,6 @@
+numpy
+pandas
+fasttext
+nltk
+xlrd
+tweet-preprocessor

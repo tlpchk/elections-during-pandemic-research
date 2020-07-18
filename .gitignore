@@ -1,8 +1,9 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+**/.DS_Store
 *.py[cod]
 *$py.class
-election_model.bin
+model/election_model.bin
 data/cc.pl.300.vec
 # C extensions
 *.so

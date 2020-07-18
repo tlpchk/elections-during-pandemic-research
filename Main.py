@@ -11,6 +11,7 @@ import pandas as pd
 
 
 def calculate_stats_from_excel(path):
+    p.OPT
     print(path)
     excel_df = pd.read_excel(path)
     filip_ratings = excel_df['Filip'].values
@@ -62,7 +63,6 @@ def preprocess_tweets(data):
 
     return data
 
-
 def save_to_txt(data, name):
     lines = ""
     for index, row in data.iterrows():
@@ -110,7 +110,15 @@ if __name__ == '__main__':
 
 
     #USAGE OF MODEL
-    model = ft.load_model("election_model.bin")
-    tweet = "b'@michal_kolanko @bbudka Wybory zgodnie z Konstytucją RP powinny odbyć się 10 maja 2020 roku. Amen. #Konstytucja #demokracja #wybory'"
-    tweet = clean_tweet(tweet)
-    print(model.predict(tweet))
+    # model = ft.load_model("election_model.bin")
+    # tweet = "b'@michal_kolanko @bbudka Wybory zgodnie z Konstytucją RP powinny odbyć się 10 maja 2020 roku. Amen. #Konstytucja #demokracja #wybory'"
+    # tweet = clean_tweet(tweet)
+    # print(model.predict(tweet))
+
+    model = ft.load_model("model/election_model.bin")
+    test_data = pd.read_excel("data/final_test_dataset.xlsx")
+    tweets = get_preprocess_unlabeled_tweets(test_data)
+    labels = []
+    for tweet in tweets:
+        labels.append(model.predict(tweet))
+    print(labels)
